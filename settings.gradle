@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "PracticasGuiadasI"
+include ':practica1'
+include ':practica2'
+include ':practica3b'
+include ':practica3a'
+include ':practica4a'
+include ':practica4b'
+include ':practica5'
+include ':practica6'
+include ':practica7'
