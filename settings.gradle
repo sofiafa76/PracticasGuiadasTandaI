@@ -13,8 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "PracticasGuiadasI"
-include ':practica1'
-include ':practica2'
+include ':practica1y2'
 include ':practica3b'
 include ':practica3a'
 include ':practica4a'

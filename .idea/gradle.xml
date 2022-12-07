@@ -10,8 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/practica1" />
-            <option value="$PROJECT_DIR$/practica2" />
+            <option value="$PROJECT_DIR$/practica1y2" />
             <option value="$PROJECT_DIR$/practica3a" />
             <option value="$PROJECT_DIR$/practica3b" />
             <option value="$PROJECT_DIR$/practica4a" />
